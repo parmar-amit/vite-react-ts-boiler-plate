@@ -1,9 +1,8 @@
 import "./App.css";
-
 function App() {
   return (
     <>
-      <div>hello vite</div>
+      <div>hello vite react</div>
     </>
   );
 }
